@@ -2,7 +2,6 @@
 
 # Converting Sam's Java code to Python
 
-from nose.tools import assert_equal
 import unittest
 
 
